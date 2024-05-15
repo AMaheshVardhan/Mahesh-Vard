@@ -25,6 +25,4 @@
 
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Vard&theme=shades-of-purple&layout=compact" alt="Mahesh Vardhan's GitHub Top Languages" />
-
 - Embracing the elegance of coding, Punctuate my sentences with a semicolon;
