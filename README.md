@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/akena-mahesh-vardhan/"><img width="42px" alt="Linkedin" title="Youtube" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/Mahesh__Vardhan"><img width="42px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/128/2504/2504947.png"/></a>
+  <a href="https://leetcode.com/MaheshVardhan"><img width="42px" alt="Leetcode" title="Leetcode" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:maheshakena5614@gmail.com" alt="Gmail" title="Contact me"><img width="42px" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
