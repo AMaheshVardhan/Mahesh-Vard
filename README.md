@@ -3,13 +3,11 @@
 <p align="center">
   <!-- Typing SVG by Mahesh-Vardhan - https://github.com/Mahesh-Vardhan/readme-typing-svg -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Mahesh Vardhan;Great+to+encounter+you+here.;Machine+Learning+enthusiast;Feel+free+and+go+through+my+repo's;Get+in+touch+through+the+links+below;Eat+Sleep+Code !!!;&font=Tektur&font-size=30&center=true&width=380&height=50&duration=4000&pause=1000&color=00ff00" alt="Example Usage - README Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Mahesh Vardhan;Competitive +Programming;System+Design;Web+Development;Machine+Learning;Automation;Testing;Get+in+touch+through+the+links+below;;&font=Tektur&font-size=30&center=true&width=380&height=50&duration=4000&pause=1000&color=00ff00" alt="Example Usage - README Typing SVG">
   </p>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akena-mahesh-vardhan/"><img width="42px" alt="Linkedin" title="Youtube" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/MaheshVardhan"><img width="42px" alt="Leetcode" title="Leetcode" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:maheshakena5614@gmail.com" alt="Gmail" title="Contact me"><img width="42px" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png"/></a>
