@@ -19,12 +19,12 @@
 <h3>Unveiling digital magic through lines of innovation.</h3>
 
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Vardhan&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Vard&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Mahesh-Vardhan's Stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Vardhan&theme=jolly&show_icons=true&hide_border=false&count_private=false)
+![Mahesh-Vardhan's Stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Vard&theme=jolly&show_icons=true&hide_border=false&count_private=false)
 
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Vardhan&theme=shades-of-purple&layout=compact" alt="Mahesh Vardhan's GitHub Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Vard&theme=shades-of-purple&layout=compact" alt="Mahesh Vardhan's GitHub Top Languages" />
 
-- Embracing the elegance of coding, Punctuate my sentences with a semicolon.
+- Embracing the elegance of coding, Punctuate my sentences with a semicolon;
