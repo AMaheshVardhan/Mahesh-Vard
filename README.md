@@ -14,7 +14,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/mahesh__vardhan/"><img width="42px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"></a>
 </p>
-<h3>Unveiling digital magic through lines of innovation.</h3>
 
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahesh-Vard&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
