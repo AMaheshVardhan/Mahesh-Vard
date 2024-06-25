@@ -12,7 +12,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:maheshakena5614@gmail.com" alt="Gmail" title="Contact me"><img width="42px" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/mahesh__vardhan/"><img width="42px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"></a>
+<!--   <a href="https://www.instagram.com/mahesh__vardhan/"><img width="42px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"></a> -->
 </p>
 
 ---
@@ -21,5 +21,3 @@
 ![Mahesh-Vardhan's Stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Vard&theme=jolly&show_icons=true&hide_border=false&count_private=false)
 
 ---
-
-- Embracing the elegance of coding, Punctuate my sentences with a semicolon;
